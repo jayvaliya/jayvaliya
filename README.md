@@ -19,7 +19,7 @@ Let's connect and learn from each other. You can find me on:
 
 - GitHub: [jayvaliya](https://github.com/jayvaliya)
 - LinkedIn [Jay valiya](https://www.linkedin.com/in/jay-valiya-502b8626b/)
-- Twitter: [Your Twitter Profile](https://twitter.com/jayvaliya09)
+- Twitter: [jayvaliya09](https://twitter.com/jayvaliya09)
 
 ## Fun Facts
 - 🎵 I love listening to music while coding.
