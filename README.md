@@ -12,10 +12,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jayvaliya&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvaliya&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jayvaliya&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jayvaliya&icon=5&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jayvaliya&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
