@@ -2,9 +2,9 @@
 
 <div align="center">
   
-# Jay Valiya | Full Stack Developer
+# Jay Valiya
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Mobile-App+Developer;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=white&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Mobile-App+Developer;Software+Developer)](https://git.io/typing-svg)
 
 </div>
 
