@@ -41,12 +41,12 @@ Full-stack developer skilled in **Next.js, Node.js, PostgreSQL, Prisma**, and cl
 Passionate about engineering reliable systems, learning modern stacks, and contributing to impactful real-world projects. Let's connect and build something amazing! 😊
 
 ## 🌐 Connect With Me
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.jayvaliya.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-valiya/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayvaliya)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jayvaliya09) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valiyajay555@gmail.com) 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tohATQRygC4wTo-tWq-x_IGtqTEHpb__/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1GZmh1aRmn_nsY48Kb78cFkIlNk_hbLDF?usp=drive_link)
 
 # 💻 Tech Stack
 
@@ -75,24 +75,23 @@ Passionate about engineering reliable systems, learning modern stacks, and contr
 ### [Noter](https://github.com/jayvaliya/noter)
 **Collaborative Study Platform** | MERN Stack · Socket.io · Redux
 - Platform for students to share notes and study materials collaboratively
-- Real-time collaboration features with Socket.io
 - User authentication, authorization, and resource management
 
 ### [BlogPen](https://github.com/jayvaliya/medium)
 **Modern Blogging Platform** | React · Hono · Cloudflare Workers · PostgreSQL
-- Serverless blogging platform with edge computing capabilities
+- Serverless blogging platform
 - Real-time content publishing and management system
 - Built with modern tech stack for optimal performance and scalability
 
 ### [Cryptocurrency Dashboard](https://github.com/jayvaliya/crypto-hub)
-**Real-time Crypto Analytics Platform** | React · APIs · Chart.js · Web3
-- Real-time cryptocurrency price tracking and analytics dashboard
+**Real-time Crypto Analytics Platform** | React · APIs · ApexCharts.js · Web3
+- Cryptocurrency price tracking and analytics dashboard
 - Integration with multiple crypto APIs for live market data
 - Interactive charts and visualization for market trends
 - Responsive design with modern UI/UX
 
 ### More Projects
-Explore more on my [GitHub Profile](https://github.com/jayvaliya?tab=repositories)
+Explore more in my [GitHub Repositories](https://github.com/jayvaliya?tab=repositories)
 
 ---
 
