@@ -4,7 +4,7 @@
   
 # Jay Valiya
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=white&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Mobile-App+Developer;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=white&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Mobile-App+Developer;Bitcoin+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,6 +22,7 @@ Full-stack developer skilled in **Next.js, Node.js, PostgreSQL, Prisma**, and cl
 
 🌱 **Currently learning & exploring:**
 - **Web3 development** - Decentralized applications and smart contract integrations
+- **Bitcoin Protocol** - How Bitcoin works: Consensus mechanisms, UTXO model, and transaction validation
 - **Agentic AI systems** - GenAI tools, autonomous agents, and AI-powered workflows
 - **Open source contributions** - Contributing to impactful real-world projects
 
