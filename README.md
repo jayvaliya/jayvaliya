@@ -42,7 +42,7 @@ Full-stack developer skilled in **Next.js, Node.js, PostgreSQL, Prisma**, and cl
 Passionate about engineering reliable systems, learning modern stacks, and contributing to impactful real-world projects. Let's connect and build something amazing! 😊
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.jayvaliya.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.jayvaliya.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-valiya/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayvaliya)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jayvaliya09) 
