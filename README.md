@@ -16,10 +16,6 @@ Full-stack developer skilled in **Next.js, Node.js, PostgreSQL, Prisma**, and cl
 
 🥉 **2nd Runner-Up** in the **Parul University AI-ML Hackathon** for developing intelligent automation solutions.
 
-🔭 **Currently working on:**
-- **BlogPen** - Modern blogging platform using React, Hono, and Cloudflare Workers
-- **Noter** - Collaborative platform where students can share notes and study materials
-
 🌱 **Currently learning & exploring:**
 - **Web3 development** - Decentralized applications and smart contract integrations
 - **Bitcoin Protocol** - How Bitcoin works: Consensus mechanisms, UTXO model, and transaction validation
