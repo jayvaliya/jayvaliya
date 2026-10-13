@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title description">
+  <title id="title">Jay Valiya — full-stack developer and product builder</title>
+  <desc id="description">A charcoal and lime banner with the words From idea to useful software, and a geometric arrow pointing forward and up.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 H 0 V 40" fill="none" stroke="#272b28" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="420" rx="16" fill="#141816" />
+  <path d="M 760 0 H 1184 Q 1200 0 1200 16 V 404 Q 1200 420 1184 420 H 760 Z" fill="url(#grid)" />
+  <path d="M 48 64 H 76" stroke="#c5f277" stroke-width="3" />
+  <text x="90" y="70" fill="#c2c8c1" font-family="'Courier New', monospace" font-size="16" letter-spacing="2">FULL-STACK DEVELOPER / PRODUCT BUILDER</text>
+  <text x="44" y="202" fill="#f4f6ee" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" letter-spacing="-6">Jay Valiya<tspan fill="#c5f277">.</tspan></text>
+  <text x="48" y="266" fill="#c5f277" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="-1">From idea to useful software.</text>
+  <g fill="none" stroke="#46513d" stroke-width="1.5">
+    <rect x="818" y="66" width="296" height="280" rx="2" />
+    <circle cx="966" cy="206" r="128" />
+    <path d="M 800 206 H 1132 M 966 48 V 364" />
+  </g>
+  <path d="M 850 90 H 1090 V 330 H 1018 V 214 L 900 332 L 848 280 L 966 162 H 850 Z" fill="#c5f277" />
+  <circle cx="818" cy="66" r="4" fill="#141816" stroke="#c5f277" stroke-width="1.5" />
+  <circle cx="1114" cy="346" r="4" fill="#141816" stroke="#c5f277" stroke-width="1.5" />
+  <path d="M 48 354 H 718" stroke="#363d35" />
+  <g font-family="'Courier New', monospace" font-size="15" letter-spacing="1.5">
+    <text x="48" y="389" fill="#a5ada4">WEB / MOBILE / SYSTEMS</text>
+    <circle cx="503" cy="384" r="4" fill="#c5f277" />
+    <text x="518" y="389" fill="#c5f277">BUILDING A STARTUP</text>
+  </g>
+</svg>
